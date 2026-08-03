@@ -1,16 +1,16 @@
-## Hi there 👋
+# Rocío Fernández Peral (Rocío F. Peral)
 
-<!--
-**rociofperal/rociofperal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrolladora full-stack y especialista en IA. Cuenca, España.
 
-Here are some ideas to get you started:
+**Stack:** PHP 8.3 · MySQL · React · Node.js · Next.js · Python  
+**IA:** Claude API · Claude Vision · agentes conversacionales · n8n  
+**EdTech:** Moodle 4.5 (plugins PHP, SOAP SEPE) · SCORM · FUNDAE
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos
+- **Voltio** — PWA de entrenamiento de fuerza con sobrecarga progresiva guiada por IA
+- **Kosty** — rentabilidad en tiempo real para hostelería
+- **ARDE** — transformación corporal con análisis comparativo de imágenes
+- **FormaFlow** — ERP para centros de formación
+- **Vatio**
+
+Más detalle en https://www.rociofperal.com
