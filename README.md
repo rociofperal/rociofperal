@@ -6,7 +6,7 @@ Fundadora de [FormaFlow](https://formaflow.es), soluciones digitales para centro
 
 ## Proyectos públicos
 
-- **[analisis-geo-seo](https://github.com/rociofperal/analisis-geo-seo)** — Skill de Claude que audita si una marca aparece en ChatGPT, Gemini y Perplexity.
+- **[analisis-geo-seo](https://github.com/rociofperal/analisis-geo-seo)** — Skill de Claude que audita si una marca aparece en ChatGPT, Gemini y Modo IA de Google.
 - **[moodle-tiny_typography](https://github.com/rociofperal/moodle-tiny_typography)** — Plugin gratuito para el editor de Moodle: tipo de letra, tamaño e interlineado.
 - **[second-brain-cc](https://github.com/rociofperal/second-brain-cc)** — Adaptación a Windows del harness second-brain-cc de Alberto G. Toribio.
 
